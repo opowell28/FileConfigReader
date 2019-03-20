@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/owen/Documents/AdvancedCandC++/Projects/5) FileConfigReader/FileConfigReader.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+exception
+-
+FileConfigReader.h
+/Users/owen/Documents/AdvancedCandC++/Projects/5) FileConfigReader/FileConfigReader.h
+
+/Users/owen/Documents/AdvancedCandC++/Projects/5) FileConfigReader/FileConfigReader.h
+iostream
+-
+fstream
+-
+string
+-
+map
+-
+

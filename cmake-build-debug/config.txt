@@ -1,0 +1,6 @@
+
+username=john.smith
+password=12345
+age=35
+name=John Smith
+email=johnsmith@gmail.com
